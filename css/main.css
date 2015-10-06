@@ -1,0 +1,126 @@
+/* CSS Document */
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html {
+	box-sizing:border-box;
+	-moz-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	text-size-adjust: 100%;	
+}
+
+*, *:before, *:after {
+	box-sizing:inherit;
+}
+
+
+body { 
+	margin: 0;
+	padding: 0;
+}
+
+
+.flex {
+	display: block;
+	width: 100%;
+}
+
+
+a {
+	color: rgb(102,102,102,);
+}
+
+.masthead {
+	position:fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+
+}
+
+.nav {
+	margin-top: .5rem;
+	text-align:right;
+	text-decoration:none;
+	list-style-type: none;
+}
+
+
+.nav a {
+	text-align:right;
+	text-decoration:none;
+}
+
+
+.banner {
+	position:relative;
+	text-align:center;
+	z-index: -1;
+}
+
+.banner-img {
+	padding-top: 56.25%;
+	background: url("http://placehold.it/1920x1080/") no-repeat center center;
+	background-size:cover;
+}
+
+.intro {
+	text-align: inherit;
+	top: 5rem;
+}
+
+.intro-wrap {
+	position:absolute;
+	width: 100%;
+	bottom: 0;
+	margin: 0 auto;
+}
+
+@media only screen and (min-width: 25em) {
+
+
+.intro-wrap {
+	bottom: 3rem;
+}
+}
+
+@media only screen and (min-width: 38em) {
+
+
+.intro-wrap {
+	bottom: 4.5rem;
+}
+
+
+@media only screen and (min-width: 45em) {
+
+
+.intro-wrap {
+	bottom: 6rem;
+}
+}
+
+@media only screen and (min-width: 60em) {
+
+.intro-wrap {
+	bottom: 9rem;
+}
+}
+
+@media only screen and (min-width: 80em) {
+
+.intro-wrap {
+	bottom: 10.5rem;
+}
+}
+
+@media only screen and (min-width: 100em) {
+
+.intro-wrap {
+	bottom: 12rem;
+}
+}
