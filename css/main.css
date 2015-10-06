@@ -80,6 +80,16 @@ a {
 	margin: 0 auto;
 }
 
+.viewboxes {
+	position: relative;
+}
+
+.view {
+ position: absolute;
+ bottom: 3rem;
+ z-index: 100;
+}
+
 @media only screen and (min-width: 25em) {
 
 
