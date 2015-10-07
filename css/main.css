@@ -29,9 +29,11 @@ body {
 	width: 100%;
 }
 
-
 a {
-	color: rgb(102,102,102,);
+	color:rgb(255,255,255);
+	border: 3px solid rgb(255,255,255);
+	padding: 1%;
+	
 }
 
 .masthead {
@@ -40,6 +42,10 @@ a {
      left: 0;
      width: 100%;
 
+}
+
+h1,h2,p {
+	color:rgb(255,255,255);
 }
 
 .nav {
@@ -53,6 +59,7 @@ a {
 .nav a {
 	text-align:right;
 	text-decoration:none;
+	color:rgb(255,255,255);
 }
 
 
@@ -64,43 +71,66 @@ a {
 
 .banner-img {
 	padding-top: 56.25%;
-	background: url("http://placehold.it/1920x1080/") no-repeat center center;
+	background: url("http://placehold.it/1920x1080/131e45") no-repeat center center;
 	background-size:cover;
 }
 
 .intro {
-	text-align: inherit;
-	top: 5rem;
+	background: url("http://placehold.it/1000x1080/131e45");
 }
 
 .intro-wrap {
-	position:absolute;
 	width: 100%;
 	bottom: 0;
 	margin: 0 auto;
 }
 
-.viewboxes {
+.viewbox {
 	position: relative;
 }
 
-.view {
- position: absolute;
- bottom: 3rem;
- z-index: 100;
+.viewreel {
+	font-family: Quicksand, Arial, Helvetica, sans-serif;
+	 text-decoration:none;
 }
+
+.view {
+	font-family: Quicksand, Arial, Helvetica, sans-serif;
+ 	position: absolute;
+	 bottom: 6rem;
+	 text-decoration:none;
+	 width: 100%;
+	 text-align:center;
+}
+
+.btn {
+	font-family: Quicksand, Arial, Helvetica, sans-serif;
+	 text-decoration:none;
+	 color: rgb(255,250,251,);
+}
+
 
 @media only screen and (min-width: 25em) {
 
+.intro {
+	text-align: inherit;
+}
 
 .intro-wrap {
-	bottom: 3rem;
+	position:absolute;
+	width: 100%;
+	top:auto;
+	bottom: 5.5rem;
+	margin: 0 auto;
 }
+
 }
 
 @media only screen and (min-width: 38em) {
 
-
+.intro {
+	background: none;
+}
 .intro-wrap {
 	bottom: 4.5rem;
 }
