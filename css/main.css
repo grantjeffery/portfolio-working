@@ -12,7 +12,7 @@ html {
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;	
 	background-color: #131e45;
-}
+	}
 
 *, *:before, *:after {
 	box-sizing:inherit;
@@ -22,19 +22,17 @@ html {
 body { 
 	margin: 0;
 	padding: 0;
-}
+	}
 
 
 .flex {
 	display: block;
 	width: 100%;
-}
+	}
 
 a {
 	color:rgb(255,255,255);
-	
-	
-}
+	}
 
 .masthead {
 	position:fixed;
@@ -42,53 +40,52 @@ a {
      left: 0;
      width: 100%;
 	 z-index: 100;
-
-}
+	}
 
 h1,h2,p {
 	color:rgb(255,255,255);
-}
+	}
 
 .grant {
 	height: 4.5em;
-}
+	}
 
 .letter {
 	margin-top: .5em;
 	height: 3rem;
-}
+	}
 
 .nav {
 	text-align:right;
 	margin-top: .75rem;
 	list-style-type: none;
-}
+	}
 
 .banner {
 	position:relative;
 	text-align:center;
 	z-index: -1;
-}
+	}
 
 .banner-img {
 	padding-top: 56.25%;
 	background: url("http://placehold.it/1920x1080/131e45") no-repeat center;
 	height: 26em;
-}
+	}
 
 .intro {
-}
+	}
 
 .intro-wrap {
 	position: absolute;
 	width: 80%;
 	bottom: 5.5rem;
 	margin: 0 10% 0 10%;
-}
+	}
 
 .viewbox {
 	position: relative;
-}
+	}
 
 .viewreel {
 	font-family: Quicksand, Arial, Helvetica, sans-serif;
@@ -102,7 +99,7 @@ h1,h2,p {
 	 text-decoration:none;
 	 width: 100%;
 	 text-align:center;
-}
+	}
 
 .btn {
 	font-family: Quicksand, Arial, Helvetica, sans-serif;
@@ -110,33 +107,33 @@ h1,h2,p {
 	 border: 3px solid rgb(255,255,255);
 	 padding: 2% 4% 2% 4%;
 	 color: rgb(255,250,251);
-}
+	}
 
 .projecttop {
 	padding-top: 4.5rem;
 	padding-bottom: 1.5rem;
 	margin: auto;
 	text-align: center;
-}
+	}
 
 .video {
 	position:relative;
 	text-align:center;
 	z-index: -1;
-}
+	}
 
 .video-img {
 	padding-top: 56.25%;
 	background: url("http://placehold.it/1920x1080/131e45") no-repeat center;
 	background-size:cover;
-}
+	}
 
 .section2 {
 	margin-top: 1.5rem;
 	margin-left: 5%;
 	margin-right: 5%;
 
-}
+	}
 
 /***************************
 ****************************
@@ -153,53 +150,53 @@ the social media section
 	display:block;
 	text-align:center;
 	text-decoration:none;
-}
+	}
 
 a:hover {
 	text-decoration:underline;
-}
+	}
 
 
 .socialmedia {
     width: 100%;
     margin-left: auto ;
     margin-right: auto ;
-}
+	}
 
 .socialmedia ul {
     list-style-type: none; /*to remove bullets*/
     text-align: center;
     padding: 0px;
     overflow: hidden;
-}
+	}
 
 .socialmedia li{
     padding: 2px;
 	height: 50px;
     display:inline-block;
-}
+	}
 
 .twitter {
 	background-repeat: no-repeat;
 	background-image:url(../img/twitter.svg);
 	background-size: 100%;
 
-}
+	}
 
 *{ height:inherit;
-}
+	}
 
 .dribbble { 
 	background-repeat: no-repeat;
 	background-image:url(../img/dribbble.svg);
 	background-size: 100%;
-}
+	}
 
 .behance {
 	background-repeat: no-repeat;
 	background-image:url(../img/behance.svg);
 	background-size: 100%;
-}
+	}
 
 /***************************
 ****************************
@@ -211,7 +208,7 @@ the footer section
 footer {
 	background-color:rgb(51,51,51);
 	bottom: 0;
-}
+	}
 
 .footerpara {
 	text-align:center;
@@ -219,7 +216,7 @@ footer {
 	padding-bottom: 1em;
 	margin-top: 1em;
 	margin-bottom: 1em;
-}
+	}
 
 
 @media only screen and (min-width: 25em) {
@@ -227,11 +224,11 @@ footer {
 .banner-img {
 	background: url("http://placehold.it/1920x1080/131e45") no-repeat center center;
 	background-size:cover;
-}
+	}
 
 .intro {
 	text-align: inherit;
-}
+	}
 
 .intro-wrap {
 	position:absolute;
@@ -239,7 +236,7 @@ footer {
 	top:auto;
 	bottom: 5.5rem;
 	margin: 0 10% 0 10%;
-}
+	}
 
 .socialmedia li {
 		height: 3em;
@@ -251,10 +248,11 @@ footer {
 
 .intro {
 	background: none;
-}
+	}
+	
 .intro-wrap {
 	bottom: 6rem;
-}
+	}
 
 }
 
