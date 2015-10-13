@@ -138,6 +138,70 @@ h1,h2,p {
 
 }
 
+/***************************
+****************************
+These are the styles for
+the social media section
+****************************
+***************************/
+
+.mail:link { 
+	margin-top: 5em;
+	margin-bottom: 3em;
+	font-family:'Quicksand', sans-serif;
+	color: rgb(255,255,255);
+	display:block;
+	text-align:center;
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+
+.socialmedia {
+    width: 100%;
+    margin-left: auto ;
+    margin-right: auto ;
+}
+
+.socialmedia ul {
+    list-style-type: none; /*to remove bullets*/
+    text-align: center;
+    padding: 0px;
+    overflow: hidden;
+}
+
+.socialmedia li{
+    padding: 2px;
+	height: 50px;
+    display:inline-block;
+}
+
+.twitter {
+	background-repeat: no-repeat;
+	background-image:url(../img/twitter.svg);
+	background-size: 100%;
+
+}
+
+*{ height:inherit;
+}
+
+.dribbble { 
+	background-repeat: no-repeat;
+	background-image:url(../img/dribbble.svg);
+	background-size: 100%;
+}
+
+.behance {
+	background-repeat: no-repeat;
+	background-image:url(../img/behance.svg);
+	background-size: 100%;
+}
+
+
 @media only screen and (min-width: 25em) {
 
 .banner-img {
