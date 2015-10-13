@@ -201,6 +201,25 @@ a:hover {
 	background-size: 100%;
 }
 
+/***************************
+****************************
+These are the styles for
+the footer section
+****************************
+***************************/
+
+footer {
+	background-color:rgb(51,51,51);
+	bottom: 0;
+}
+
+.footerpara {
+	text-align:center;
+	padding-top: 1em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
 
 @media only screen and (min-width: 25em) {
 
@@ -221,6 +240,10 @@ a:hover {
 	margin: 0 10% 0 10%;
 }
 
+.socialmedia li {
+		height: 3em;
+	}
+	
 }
 
 @media only screen and (min-width: 38em) {
@@ -261,7 +284,8 @@ a:hover {
 	
 main {
 	width: 80%;
-	margin: 10%;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 .intro-wrap {
