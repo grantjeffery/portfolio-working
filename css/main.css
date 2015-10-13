@@ -109,7 +109,7 @@ h1,h2,p {
 	 text-decoration:none;
 	 border: 3px solid rgb(255,255,255);
 	 padding: 2% 4% 2% 4%;
-	 color: rgb(255,250,251,);
+	 color: rgb(255,250,251);
 }
 
 .projecttop {
@@ -146,8 +146,8 @@ the social media section
 ***************************/
 
 .mail:link { 
-	margin-top: 5em;
-	margin-bottom: 3em;
+	margin-top: 4.5em;
+	margin-bottom: 2em;
 	font-family:'Quicksand', sans-serif;
 	color: rgb(255,255,255);
 	display:block;
@@ -216,6 +216,7 @@ footer {
 .footerpara {
 	text-align:center;
 	padding-top: 1em;
+	padding-bottom: 1em;
 	margin-top: 1em;
 	margin-bottom: 1em;
 }
@@ -255,29 +256,36 @@ footer {
 	bottom: 6rem;
 }
 
+}
 
 @media only screen and (min-width: 45em) {
 
 
 .intro-wrap {
 	bottom: 6rem;
-}
+	}
 
 .grant {
 	height: 6em;
 	
-}
+	}
 
 .letter {
 	padding-bottom: 1.7em;
 	height: 6em;
+	}
 }
 
 @media only screen and (min-width: 60em) {
 
 .intro-wrap {
 	bottom: 9rem;
-}
+	}
+
+.socialmedia li {
+		height:6em;
+		padding: 1em;
+	}
 }
 
 @media only screen and (min-width: 80em) {
@@ -286,20 +294,20 @@ main {
 	width: 80%;
 	margin-left: 10%;
 	margin-right: 10%;
-}
+	}
 
 .intro-wrap {
 	bottom: 10.5rem;
-}
+	}
 
 .letter {
 	padding: 1.5em;
-}
+	}
 }
 
 @media only screen and (min-width: 100em) {
 
 .intro-wrap {
 	bottom: 20rem;
-}
+	}
 }
