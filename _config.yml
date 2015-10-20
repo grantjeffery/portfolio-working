@@ -1,6 +1,8 @@
+markdown: redcarpet
 permalink: pretty
-baseurl: /grantjeffery/portfolio-working
-
+baseurl: /portfolio-working
+exclude: ['README.md']
+permalink: pretty
 _config.yml
 _includes/
 _layouts/
