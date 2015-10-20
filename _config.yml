@@ -1,0 +1,21 @@
+permalink: pretty
+baseurl: /grantjeffery/portfolio-working
+
+_config.yml
+_data/
+  └ dinos.yml
+_includes/
+  └ button.html
+_layouts/
+  └ default.html
+_posts/
+  └ 2015-10-28-new-dino.md
+  └ 2015-10-25-dinos-have-feathers.md
+css/
+  └ main.css
+  └ grid.css
+  └ typography.css
+images/
+  └ project1placeholder.jpg
+index.html
+project1.html
