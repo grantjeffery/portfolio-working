@@ -3,7 +3,6 @@ permalink: pretty
 baseurl: /portfolio-working
 exclude: ['README.md']
 permalink: pretty
-_config.yml
 _includes/
 _layouts/
 _posts/
