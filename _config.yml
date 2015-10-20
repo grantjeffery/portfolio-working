@@ -3,15 +3,3 @@ permalink: pretty
 baseurl: /portfolio-working
 exclude: ['README.md']
 permalink: pretty
-_includes/
-_layouts/
-_posts/
-  └ 
-css/
-  └ main.css
-  └ grid.css
-  └ typography.css
-images/
-  └ 
-index.html
-project1.html
