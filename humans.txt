@@ -1,0 +1,48 @@
+                      
+/* TEAM */
+
+                            
+Your title: Grant Jeffery
+                            
+Site: http://www.grantjeffery.ca
+
+Vimeo: https://vimeo.com/user7998527 
+	                        
+Dribbble: https://dribbble.com/grantjeffery
+
+
+                            
+Location: Ottawa Ont.
+
+                         
+                 
+                        [...]
+						
+
+							
+/* THANKS */
+
+Thomas Bradley
+Google Fonts
+Algonquin College
+
+						
+                 
+                        [...]
+                        
+
+                            
+/* SITE */
+
+                            
+Last update: 2015/10/27 
+
+                            
+Standards: HTML5, CSS3,..
+
+                            
+Components: Modernizr, jQuery,Grifier etc.
+
+                            
+Software: Adobe Illustrator, Adobe Dreamweaver, Adobe Photoshop.
+   
