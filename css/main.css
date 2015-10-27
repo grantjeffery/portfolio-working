@@ -11,7 +11,7 @@ html {
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;	
-	background-color: #131e45;
+	background-color: rgb(255,255,255);
 	}
 
 *, *:before, *:after {
@@ -43,7 +43,7 @@ a {
 	}
 
 h1,h2,p {
-	color:rgb(255,255,255);
+	color: rgb(253,110,103);
 	}
 
 .grant {
@@ -64,12 +64,11 @@ h1,h2,p {
 .banner {
 	position:relative;
 	text-align:center;
-	z-index: -1;
 	}
 
 .banner-img {
 	padding-top: 56.25%;
-	background: url("http://placehold.it/1920x1080/131e45") no-repeat center;
+	background: url(../img/volcanoreelcover.jpg) no-repeat center;
 	height: 26em;
 	}
 
@@ -102,6 +101,7 @@ h1,h2,p {
 	}
 
 .btn {
+	z-index:1;
 	font-family: Quicksand, Arial, Helvetica, sans-serif;
 	 text-decoration:none;
 	 border: 3px solid rgb(255,255,255);
@@ -134,6 +134,8 @@ h1,h2,p {
 	margin-right: 5%;
 
 	}
+	
+
 
 /***************************
 ****************************
@@ -142,11 +144,18 @@ the social media section
 ****************************
 ***************************/
 
+.contacttext {
+	margin-top: 3em;
+	padding-left: 10%;
+	padding-right:10%;
+	text-align:center;
+}
+
 .mail:link { 
-	margin-top: 4.5em;
+	
 	margin-bottom: 2em;
 	font-family:'Quicksand', sans-serif;
-	color: rgb(255,255,255);
+	color: rgb(33,41,68);
 	display:block;
 	text-align:center;
 	text-decoration:none;
@@ -206,7 +215,7 @@ the footer section
 ***************************/
 
 footer {
-	background-color:rgb(51,51,51);
+	background-color:rgb(33,40,70);
 	bottom: 0;
 	}
 
@@ -222,7 +231,7 @@ footer {
 @media only screen and (min-width: 25em) {
 
 .banner-img {
-	background: url("http://placehold.it/1920x1080/131e45") no-repeat center center;
+	background: url(../img/volcanoreelcover.jpg) no-repeat center center;
 	background-size:cover;
 	}
 
@@ -288,6 +297,10 @@ footer {
 
 @media only screen and (min-width: 80em) {
 	
+}
+
+@media only screen and (min-width: 120em) {
+
 main {
 	width: 80%;
 	margin-left: 10%;
@@ -295,17 +308,15 @@ main {
 	}
 
 .intro-wrap {
-	bottom: 10.5rem;
+	bottom: 20rem;
+	}
+	
+.grant {
+	padding:0 1em 0 0;
+	
 	}
 
 .letter {
 	padding: 1.5em;
-	}
-}
-
-@media only screen and (min-width: 100em) {
-
-.intro-wrap {
-	bottom: 20rem;
 	}
 }
