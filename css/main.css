@@ -89,7 +89,7 @@ h1,h2,p {
 .viewreel {
 	font-family: Quicksand, Arial, Helvetica, sans-serif;
 	 text-decoration:none;
-}
+	}
 
 .view {
 	font-family: Quicksand, Arial, Helvetica, sans-serif;
@@ -125,7 +125,7 @@ h1,h2,p {
 	overflow: hidden;
 	width: 100%;
 	position: relative;
-}
+	}
 
 .embed-item {
 	position: absolute;
@@ -133,11 +133,11 @@ h1,h2,p {
 	left: 0;
 	height: 100%;
 	width: 100%;
-}
+	}
 
 .embed-16by9 {
 	padding-top:56.25%;
-}
+	}
 
 .section2 {
 	margin-top: 1.5rem;
@@ -160,7 +160,7 @@ the social media section
 	padding-left: 10%;
 	padding-right:10%;
 	text-align:center;
-}
+	}
 
 .mail:link { 
 	
