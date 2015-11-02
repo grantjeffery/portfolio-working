@@ -51,7 +51,7 @@ h1,h2,p {
 	}
 
 .letter {
-	max-height: 60%;
+	max-height: 50%;
 	}
 
 .nav {
@@ -66,6 +66,7 @@ h1,h2,p {
 	}
 
 .banner-img {
+	
 	padding-top: 56.25%;
 	background: url(../img/volcanoreelcover.jpg) no-repeat center;
 	height: 26em;
@@ -180,6 +181,9 @@ the social media section
 	text-align:center;
 	text-decoration:none;
 	}
+.mail:hover {
+	text-decoration:underline;
+}
 
 
 .socialmedia {
@@ -231,7 +235,6 @@ the footer section
 ***************************/
 
 footer {
-	background-color:rgb(33,40,70);
 	bottom: 0;
 	}
 
@@ -241,6 +244,7 @@ footer {
 	padding-bottom: 1em;
 	margin-top: 1em;
 	margin-bottom: 1em;
+	background-color:rgb(33,40,70);
 	}
 
 
@@ -271,6 +275,10 @@ footer {
 
 @media only screen and (min-width: 38em) {
 
+.letter {
+	max-height: 60%;
+	}
+	
 .intro {
 	background: none;
 	}
