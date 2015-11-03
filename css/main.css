@@ -113,11 +113,11 @@ h1,h2,p {
 	background-color:transparent;
 	border: 3px solid rgb(255,255,255);
 
-}
+	}
 
 a:hover {
 	text-decoration: none;
-}
+	}
 
 .projecttop {
 	padding-top: 4.5rem;
@@ -183,7 +183,7 @@ the social media section
 	}
 .mail:hover {
 	text-decoration:underline;
-}
+	}
 
 
 .socialmedia {
@@ -299,7 +299,7 @@ footer {
 .section2 {
 	width: 70%;
 	margin:auto;
-}
+	}
 }
 
 @media only screen and (min-width: 60em) {
@@ -316,7 +316,7 @@ footer {
 	.section2 {
 	width: 50%;
 	margin:auto;
-}
+	}
 }
 
 @media only screen and (min-width: 80em) {
