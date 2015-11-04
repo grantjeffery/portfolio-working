@@ -47,12 +47,12 @@ h1 {
 	}
 
 h2 {
-	color: rgb(255,255,255);
+	color: rgb(235,206,190);
 	line
 	padding-bottom: 1em;
 	}
 h3 {
-	color: rgb(255,255,255);
+	color: rgb(235,206,190);
 	}
 
 .grant {
@@ -105,8 +105,8 @@ h3 {
 	
 .viewreel:hover {
 	background-color:transparent;
-	color:rgb(255,255,255);
-	border: 3px solid rgb(255,255,255);
+	color:rgb(235,206,190);
+	border: 3px solid rgb(235,206,190);
 	
 	}
 
@@ -358,6 +358,14 @@ header {
 	}
 }
 
+@media only screen and (min-width: 70em) {
+
+	.intro-wrap {
+	bottom: 3rem;
+	}
+	
+}
+
 @media only screen and (min-width: 80em) {
 	
 	.lettering {
@@ -365,7 +373,15 @@ header {
 	
 }
 
-.intro-wrap {
+	.intro-wrap {
+	bottom: 4rem;
+	}
+	
+}
+
+@media only screen and (min-width: 90em) {
+
+	.intro-wrap {
 	bottom: 6rem;
 	}
 	
