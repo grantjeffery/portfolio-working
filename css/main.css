@@ -36,14 +36,20 @@ a {
 
 .masthead {
 	position:fixed;
-	background:rgb(236,101,86);
+	background: rgb(240,125,90);
      width: 100%;
 	 height: 4em;
 	 z-index: 100;
 	}
 
-h1,h2{
+h1 {
+	color: rgb(236,101,86);
+	}
+
+h2 {
 	color: rgb(255,255,255);
+	line
+	padding-bottom: 1em;
 	}
 h3 {
 	color: rgb(255,255,255);
@@ -91,7 +97,17 @@ h3 {
 
 .viewreel {
 	font-family: Quicksand, Arial, Helvetica, sans-serif;
-	 text-decoration:none;
+	text-decoration:none;
+	color: rgb(240,125,90);
+	padding: 2% 4% 2% 4%;
+	background-color: rgb(255,255,255);
+	}
+	
+.viewreel:hover {
+	background-color:transparent;
+	color:rgb(255,255,255);
+	border: 3px solid rgb(255,255,255);
+	
 	}
 
 .view {
@@ -102,6 +118,7 @@ h3 {
 	 width: 100%;
 	 text-align:center;
 	}
+
 
 .btn {
 	z-index:1;
@@ -252,6 +269,12 @@ footer {
 
 @media only screen and (min-width: 25em) {
 
+.lettering {
+	background:url(../img/grantbanner.svg) no-repeat center center;
+	height: 7rem;
+	margin-bottom: 2em;
+}
+
 .banner-img {
 	background: url(http://placehold.it/1920x1080/EA6748/EA6748) no-repeat center center;
 	background-size:cover;
@@ -276,6 +299,16 @@ footer {
 }
 
 @media only screen and (min-width: 38em) {
+	
+header {
+	border-bottom: solid 3px rgb(235,206,190);
+	}
+
+.lettering {
+	background:url(../img/grantbanner.svg) no-repeat center center;
+	height: 10rem;
+	margin-bottom: 0em;
+}
 
 .letter {
 	max-height: 60%;
@@ -286,7 +319,7 @@ footer {
 	}
 	
 .intro-wrap {
-	bottom: 6rem;
+	bottom: 1.5rem;
 	}
 
 }
@@ -295,7 +328,7 @@ footer {
 
 
 .intro-wrap {
-	bottom: 6rem;
+	bottom: 1.5rem;
 	}
 	
 .section2 {
@@ -306,13 +339,17 @@ footer {
 
 @media only screen and (min-width: 60em) {
 
+.lettering {
+	height: 14rem;
+}
+
 .intro-wrap {
-	bottom: 9rem;
+	bottom: 2rem;
 	}
 
 .socialmedia li {
-		height:6em;
-		padding: 1em;
+	height:6em;
+	padding: 1em;
 	}
 	
 	.section2 {
@@ -322,6 +359,15 @@ footer {
 }
 
 @media only screen and (min-width: 80em) {
+	
+	.lettering {
+	height:25rem;
+	
+}
+
+.intro-wrap {
+	bottom: 6rem;
+	}
 	
 }
 
