@@ -36,7 +36,6 @@ a {
 
 .masthead {
 	position:fixed;
-	background: rgb(240,125,90);
      width: 100%;
 	 height: 4em;
 	 z-index: 100;
@@ -47,12 +46,11 @@ h1 {
 	}
 
 h2 {
-	color: rgb(235,206,190);
-	line
+	color: rgb(62,58,87);
 	padding-bottom: 1em;
 	}
 h3 {
-	color: rgb(235,206,190);
+	color: rgb(62,58,87);
 	}
 
 .grant {
@@ -70,25 +68,13 @@ h3 {
 	}
 
 .banner {
-	position:relative;
+	padding-top: 5em;
 	text-align:center;
 	}
 
-.banner-img {
-	
-	padding-top: 56.25%;
-	background: url(http://placehold.it/1920x1080/EA6748/EA6748) no-repeat center;
-	height: 26em;
-	}
-
-.intro {
-	}
-
 .intro-wrap {
-	position: absolute;
 	width: 80%;
-	bottom: 5.5rem;
-	margin: 0 10% 0 10%;
+	margin: 0 10% 2rem 10%;
 	}
 
 .viewbox {
@@ -100,6 +86,7 @@ h3 {
 	text-decoration:none;
 	color: rgb(240,125,90);
 	padding: 2% 4% 2% 4%;
+	margin-bottom: 3rem;
 	background-color: rgb(255,255,255);
 	}
 	
@@ -270,28 +257,7 @@ footer {
 
 @media only screen and (min-width: 25em) {
 
-.lettering {
-	background:url(../img/grantbanner.svg) no-repeat center center;
-	height: 7rem;
-	margin-bottom: 2em;
-}
 
-.banner-img {
-	background: url(http://placehold.it/1920x1080/EA6748/EA6748) no-repeat center center;
-	background-size:cover;
-	}
-
-.intro {
-	text-align: inherit;
-	}
-	
-.intro-wrap {
-	position:absolute;
-	width: 80%;
-	top:auto;
-	bottom: 5.5rem;
-	margin: 0 10% 0 10%;
-	}
 
 .socialmedia li {
 		height: 3em;
@@ -304,12 +270,6 @@ footer {
 header {
 	border-bottom: solid 3px rgb(235,206,190);
 	}
-
-.lettering {
-	background:url(../img/grantbanner.svg) no-repeat center center;
-	height: 10rem;
-	margin-bottom: 0em;
-}
 
 .letter {
 	max-height: 60%;
@@ -340,9 +300,6 @@ header {
 
 @media only screen and (min-width: 60em) {
 
-.lettering {
-	height: 14rem;
-}
 
 .intro-wrap {
 	bottom: 2rem;
@@ -368,11 +325,6 @@ header {
 }
 
 @media only screen and (min-width: 80em) {
-	
-	.lettering {
-	height:25rem;
-	
-}
 
 	.intro-wrap {
 	bottom: 4rem;
