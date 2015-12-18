@@ -201,6 +201,10 @@ the social media section
 	padding-right:10%;
 	text-align:center;
 	}
+	
+.mail { 
+	color: rgb(234,103,72);
+	}
 
 .mail:link { 
 	
