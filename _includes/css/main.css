@@ -277,6 +277,17 @@ footer {
 	background-color:rgb(33,40,70);
 	}
 
+/***************************
+****************************
+These are the styles for
+the 404 page
+****************************
+***************************/
+
+.broke {
+	width: 80%;
+}
+
 
 @media only screen and (min-width: 25em) {
 
