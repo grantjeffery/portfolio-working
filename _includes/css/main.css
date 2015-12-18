@@ -340,7 +340,7 @@ the 404 page
 @media only screen and (min-width: 60em) {
 
 .masthead {
-	 height: 7em;
+	 height: 100%;
 	}
 
 .intro-wrap {
