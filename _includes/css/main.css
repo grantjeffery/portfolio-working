@@ -103,7 +103,7 @@ h3 {
 	max-height: 80%;
 	}
 	
-.grant:hover path {
+.grant path:hover {
 	fill:rgb(0,204,102);
 	}
 	
