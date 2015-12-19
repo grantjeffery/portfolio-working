@@ -19,7 +19,7 @@ html {
 }
 
 $(function(){
-    jQuery('grant.svg').each(function(){
+    jQuery('img.svg').each(function(){
         var $img = jQuery(this);
         var imgID = $img.attr('id');
         var imgClass = $img.attr('class');
@@ -101,6 +101,9 @@ h3 {
 
 .grant {
 	max-height: 80%;
+	}
+.svg grant:hover {
+	fill: rgb(204,153,0);
 	}
 	
 .marg {
