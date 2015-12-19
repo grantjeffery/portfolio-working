@@ -68,6 +68,10 @@ h3 {
 	max-height: 80%;
 	}
 	
+.grant path {
+	fill: #900;
+}
+	
 .marg {
 	width: 60%;
 	margin:auto;
@@ -222,6 +226,8 @@ the social media section
 	text-align:center;
 	text-decoration:none;
 	}
+	
+	
 .mail:hover {
 	text-decoration:underline;
 	}
@@ -253,7 +259,8 @@ the social media section
 
 	}
 
-*{ height:inherit;
+*{ 
+	height:inherit;
 	}
 
 .dribbble { 
