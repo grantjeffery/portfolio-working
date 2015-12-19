@@ -67,6 +67,10 @@ h3 {
 .grant {
 	max-height: 80%;
 	}
+
+.grant:hover {
+	margin-top: 3rem;
+}
 	
 .marg {
 	width: 60%;
