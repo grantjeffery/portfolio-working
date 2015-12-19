@@ -41,6 +41,12 @@ a:hover {
 	border-bottom: solid;
 }
 
+a:active {
+	color:rgb(234,103,72);
+	margin-bottom:  .2em;
+	border-bottom: solid;
+}
+
 .masthead {
 	background-color:rgb(255,255,255);
 	position: fixed;
