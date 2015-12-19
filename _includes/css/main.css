@@ -34,7 +34,7 @@ a {
 	color: rgb(36,31,64);
 	text-decoration:none;
 	}
-	
+
 
 .masthead {
 	background-color:rgb(255,255,255);
@@ -43,6 +43,7 @@ a {
 	 height: 8em;
 	 z-index: 100;
 	}
+
 
 h1 {
 	color: rgb(236,101,86);
@@ -188,7 +189,11 @@ a:hover {
 	text-align:center;
 }
 	
-
+.sm:hover { 
+	border-bottom:solid;
+	color:rgb(234,103,72);
+}
+	
 
 /***************************
 ****************************
