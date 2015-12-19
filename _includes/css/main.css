@@ -59,6 +59,7 @@ h1 {
 h2 {
 	color: rgb(62,58,87);
 	}
+	
 h3 {
 	color: rgb(62,58,87);
 	}
@@ -70,7 +71,7 @@ h3 {
 .marg {
 	width: 60%;
 	margin:auto;
-}
+	}
 
 .navicon {
 	max-height: 3em;
@@ -110,7 +111,6 @@ h3 {
 	background-color:transparent;
 	color:rgb(235,206,190);
 	border: 3px solid rgb(235,206,190);
-	
 	}
 
 .view {
@@ -135,7 +135,6 @@ h3 {
 .btn:hover {
 	background-color:transparent;
 	border: 3px solid rgb(255,255,255);
-
 	}
 
 a:hover {
@@ -182,16 +181,16 @@ a:hover {
 .specs {
 	margin: inherit;
 	color:rgb(238,126,109);
-}
+	}
 	
 .thanks {
 	text-align:center;
-}
+	}
 	
 .sm:hover { 
 	border-bottom:solid;
 	color:rgb(234,103,72);
-}
+	}
 	
 
 /***************************
@@ -251,7 +250,6 @@ the social media section
 	background-repeat: no-repeat;
 	background-image:url(../img/twitter.svg);
 	background-size: 100%;
-
 	}
 
 *{ 
@@ -300,7 +298,7 @@ the 404 page
 .broke {
 	width: 30%;
 	margin: auto;
-}
+	}
 
 
 @media only screen and (min-width: 25em) {
