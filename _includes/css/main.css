@@ -102,8 +102,8 @@ h3 {
 .grant {
 	max-height: 80%;
 	}
-.svg .grant:hover {
-	fill: rgb(204,153,0);
+.grant:hover {
+	background:rgb(0,204,102);
 	}
 	
 .marg {
