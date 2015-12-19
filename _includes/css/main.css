@@ -36,7 +36,7 @@ a {
 	}
 	
 a:hover {
-	border-bottom: thin;
+	border-bottom:solid .2rem;
 }
 
 .masthead {
