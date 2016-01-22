@@ -189,7 +189,7 @@ a:hover {
 	
 .sm:hover { 
 	border-bottom:solid;
-	color:rgb(234,103,72);
+	border-color:rgb(234,103,72);
 	}
 	
 
