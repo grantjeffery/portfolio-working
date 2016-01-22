@@ -379,7 +379,7 @@ the 404 page
 	bottom: 4rem;
 	}
 	
-	main {
+	body {
 	width: 80%;
 	margin-left: 10%;
 	margin-right: 10%;
@@ -398,6 +398,7 @@ the 404 page
 }
 
 @media only screen and (min-width: 120em) {
+
 body {
 	width: 80%;
 	margin-left: 10%;
