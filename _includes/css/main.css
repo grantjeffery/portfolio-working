@@ -53,15 +53,15 @@ h1 {
 	}
 	
 .textleft {
-	text-align: left;
+	
 	}
 
 .textmiddle {
-	text-align: center;
+	
 	}
 
 .textright {
-	text-align: right;
+
 	}
 
 h2 {
@@ -95,6 +95,9 @@ ul {
     -webkit-padding-start: 0px;
     }
 
+li {
+	font-size: 1em;
+}
 .banner {
 	text-align:center;
 	}
