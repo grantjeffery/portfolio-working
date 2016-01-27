@@ -63,10 +63,11 @@ h3 {
 	}
 
 .grant {
+	width:100%;
 	}
 
 .grant:hover {
-	max-height:105%;
+
 }
 	
 
