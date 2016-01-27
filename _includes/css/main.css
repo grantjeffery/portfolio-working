@@ -79,6 +79,10 @@ h3 {
 	height: inherit;
 	}
 
+ul { 
+    -webkit-padding-start: 0px;
+    }
+
 .banner {
 	text-align:center;
 	}
