@@ -49,9 +49,20 @@ h1 {
 	font-family: 'Vollkorn', Arial, Helvetica, sans-serif;
 	font-weight:700;
 	color: rgb(62,58,87);
-	text-align:center;
 	}
 	
+.textleft {
+	text-align: left;
+	}
+
+.textmiddle {
+	text-align: center;
+	}
+
+.textright {
+	text-align: right;
+	}
+
 h2 {
 	color: rgb(62,58,87);
 	font-weight:400;
