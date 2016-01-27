@@ -63,18 +63,12 @@ h3 {
 	}
 
 .grant {
-	max-height: 80%;
 	}
 
 .grant:hover {
-	max-height:85%;
+	max-height:105%;
 }
 	
-.marg {
-	/*margin:auto;
-	width: 100%;
-*/
-	}
 
 .navicon {
 	max-height: 3em;
