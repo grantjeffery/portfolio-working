@@ -310,9 +310,6 @@ the 404 page
 
 @media only screen and (min-width: 38em) {
 	
-.masthead {
-	 height: 5em;
-	}
 
 .navicon {
 	max-height: 4em;
@@ -342,10 +339,6 @@ the 404 page
 }
 
 @media only screen and (min-width: 60em) {
-
-.masthead {
-	 height: 8em;
-	}
 
 .intro-wrap {
 	bottom: 2rem;
@@ -396,13 +389,13 @@ the 404 page
 
 @media only screen and (min-width: 120em) {
 
-body {
+	body {
 	width: 80%;
 	margin-left: 10%;
 	margin-right: 10%;
 	}
 
-.intro-wrap {
+	.intro-wrap {
 	bottom: 20rem;
 	}
 	
