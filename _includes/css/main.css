@@ -359,8 +359,9 @@ the 404 page
 	bottom: 2rem;
 	}
 
-nav {text-align: left;
-	}
+nav {
+	margin-right:0;
+}
 .socialmedia li {
 	height:4em;
 	padding: 1em;
