@@ -367,6 +367,8 @@ the 404 page
 	background-color:rgb(255,255,255);
      width: 100%;
      margin: 0;
+     padding-right: 0.3em;
+     padding-bottom: 0.3em;
 	}
 
 .socialmedia li {
