@@ -357,6 +357,12 @@ the 404 page
 	text-align: right;
 }
 
+.masthead {
+	background-color:rgb(255,255,255);
+     width: 100%;
+     margin: 0;
+	}
+
 .socialmedia li {
 	height:4em;
 	padding: 1em;
