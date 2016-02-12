@@ -243,8 +243,7 @@ the social media section
 	}
 
 
-.socialmedia {
-    width: 100%;
+.social{
     float: right;
 	}
 
@@ -260,6 +259,7 @@ the social media section
 	height: 50px;
     display:inline-block;
 	}
+
 
 .twitter {
 	background-repeat: no-repeat;
