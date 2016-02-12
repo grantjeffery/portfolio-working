@@ -245,8 +245,7 @@ the social media section
 
 .socialmedia {
     width: 100%;
-    margin-left: auto ;
-    margin-right: auto ;
+    float: right;
 	}
 
 .socialmedia ul {
