@@ -146,7 +146,8 @@ ul {
 	z-index:1;
 	font-family: 'Vollkorn', Arial, Helvetica, sans-serif;
 	 text-decoration:none;
-	 background:rgb(235,102,80);
+
+	 background:rgba(0,0,0 .5);
 	 padding: 2% 4% 2% 4%;
 	 color: rgb(255,250,251);
 	}
