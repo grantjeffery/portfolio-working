@@ -115,7 +115,6 @@ ul {
 
 .viewbox {
 	position: relative;
-	padding: 1%;
 	}
 
 .viewreel {
@@ -143,14 +142,34 @@ ul {
 
 
 .btn {
-	z-index:1;
 	position: absolute;
-	font-family: 'Vollkorn', Arial, Helvetica, sans-serif;
-	 text-decoration:none;
-	 background:rgb(255,250,251);
-	 padding: 2% 4% 2% 4%;
-	 color: rgb(255,250,251);
-	}
+    opacity: 0;
+    left: 20px;
+    top: 20px;
+    right: 20px;
+    bottom: 20px;
+    background-color: white;
+    border: 0;
+    outline: 2px solid black;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-content: stretch;
+    -ms-flex-line-pack: stretch;
+    align-content: stretch;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
 	
 .btn:hover {
 	background-color:transparent;
