@@ -233,7 +233,6 @@ the social media section
 	font-family:'Vollkorn', sans-serif;
 	color: rgb(234,103,72);
 	display:block;
-	text-align:center;
 	text-decoration:none;
 	}
 	
@@ -404,6 +403,15 @@ the 404 page
 	margin-right: 10%;
 	}
 	
+	.mail:link { 
+		margin-bottom: 2em;
+	font-family:'Vollkorn', sans-serif;
+	color: rgb(234,103,72);
+	display:block;
+	text-align:left;
+	text-decoration:none;
+	}
+
 }
 
 
