@@ -204,10 +204,12 @@ a:hover {
 
 .buttontext {
 	color: white;
+	position: relative;
 }
 
 .bottom {
-	bottm: 0;
+	position: absolute;
+	bottom: 0;
 }
 
 .projecttop {
