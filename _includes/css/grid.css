@@ -89,6 +89,12 @@
   visibility: visible;
 }
 
+.gutter {
+  width: 90%;
+  margin-left: 5%;
+  margin-left: 5%;
+
+}
 @media only screen and (min-width: 25em) {
 
 .unit-s-hidden {
@@ -314,3 +320,5 @@
   -webkit-align-self: center;
   align-self: center;
 }
+
+
