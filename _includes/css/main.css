@@ -138,6 +138,7 @@ ul {
 	}
 
 .viewbox {
+	padding: 0;
 	position: relative;
 	}
 
@@ -419,6 +420,14 @@ the 404 page
 
 .nav {
 	text-align: right;
+}
+
+.viewbox {
+	padding: 0,3%,6%,3%;
+	}
+
+.grid {
+	padding: 0,3%,0,3%;
 }
 
 .masthead {
