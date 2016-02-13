@@ -138,9 +138,16 @@ ul {
 	}
 
 .viewbox {
-	padding: 0;
 	position: relative;
 	}
+
+.item {
+	padding: 0;
+}
+
+.itemgrid {
+	padding: 0;
+}
 
 .viewreel {
 	font-family:'Catamaran', Arial, Helvetica, sans-serif;
@@ -248,9 +255,6 @@ a:hover {
 
 .section2 {
 	margin-top: 1.5rem;
-	margin-left: 5%;
-	margin-right: 5%;
-
 	}
 
 .specs {
@@ -422,11 +426,11 @@ the 404 page
 	text-align: right;
 }
 
-.viewbox {
+.item {
 	padding: 0,3%,6%,3%;
 	}
 
-.grid {
+.itemgrid {
 	padding: 0,3%,0,3%;
 }
 
