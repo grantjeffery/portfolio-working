@@ -180,6 +180,10 @@ ul {
     left:0;
     top:0;
     bottom:0;
+    padding-top: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 5%;
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
@@ -419,6 +423,10 @@ body {
 	margin-left: 3%;
 	}
 
+
+.btn {
+padding: 5%;
+}
 .intro-wrap {
 	bottom: 2rem;
 	}
