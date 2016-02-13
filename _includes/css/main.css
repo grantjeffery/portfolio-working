@@ -18,6 +18,35 @@ html {
 	box-sizing:inherit;
 }
 
+/***************************
+****************************
+Colours
+****************************
+***************************/
+
+.red {
+	background-color: red;
+	}
+
+.green {
+	background-color: green;
+
+}
+
+.blue {
+	background-color: blue;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+/***************************
+****************************
+Main
+****************************
+***************************/
+
 body { 
 	width: 98%;
 	margin-left: 1%;
@@ -144,11 +173,6 @@ ul {
 .btn {
 	position: absolute;
     opacity: 0;
-    left: 20px;
-    top: 20px;
-    right: 20px;
-    bottom: 20px;
-    background-color: white;
     border: 0;
     display: -ms-flexbox;
     display: -webkit-flex;
@@ -177,6 +201,10 @@ ul {
 a:hover {
 	text-decoration: none;
 	}
+
+.buttontext {
+	color: white;
+}
 
 .projecttop {
 	padding-top: 8rem;

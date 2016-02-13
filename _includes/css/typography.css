@@ -56,7 +56,7 @@ p, ul, ol, dl, dd, figure,
 blockquote, details, hr,
 fieldset, pre, table {
   margin: 0 0 1.3rem;
-  font-family: 'Vollkorn', sans-serif;
+  font-family: 'Helvetica', sans-serif;
 }
 
 .yotta {
