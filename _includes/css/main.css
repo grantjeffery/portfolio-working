@@ -262,8 +262,8 @@ a:hover {
 	}
 	
 .sm:hover { 
-	margin-bottom: .2em;
-	border-bottom: px1 solid;
+	padding-bottom: .3em;
+	border-bottom: thin solid;
 	}
 	
 
