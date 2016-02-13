@@ -47,7 +47,6 @@ Main
 ***************************/
 
 body { 
-	padding: 0;
 	}
 
 
@@ -80,7 +79,7 @@ h1 {
 	font-size: 1.2em;
 	display: inline-block;
 	font-family: 'Catamaran', Arial, Helvetica, sans-serif;
-	font-weight:200;
+	font-weight: 400;
 	color: rgb(62,58,87);
 	}
 	
@@ -263,7 +262,8 @@ a:hover {
 	}
 	
 .sm:hover { 
-	border-bottom:solid;
+	margin-bottom: .2em;
+	border-bottom: px1 solid;
 	}
 	
 
