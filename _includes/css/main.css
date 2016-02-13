@@ -416,7 +416,7 @@ the 404 page
 
 body { 
 	width: 96%;
-	margin-right: 3%;
+	margin-left: 3%;
 	}
 
 .intro-wrap {
@@ -425,23 +425,6 @@ body {
 
 .nav {
 	text-align: right;
-}
-
-.item {
-	padding: 0,3%,6%,3%;
-	}
-
-.itemgrid {
-	padding: 0,3%,0,3%;
-}
-
-.viewbox {
-
-	margin: 0, 3%, 6%, 3%;
-}
-
-.buttonbox {
-	padding: 3%;
 }
 
 .masthead {
