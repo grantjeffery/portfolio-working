@@ -206,6 +206,10 @@ a:hover {
 	color: white;
 }
 
+.bottom {
+	bottm: 0;
+}
+
 .projecttop {
 	padding-top: 8rem;
 	padding-bottom: 1.5rem;
