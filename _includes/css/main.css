@@ -46,11 +46,6 @@ Main
 ****************************
 ***************************/
 
-body { 
-	margin: 0, 3% 6% 3%;
-	}
-
-
 .flex {
 	display: block;
 	width: 100%;
@@ -418,6 +413,11 @@ the 404 page
 }
 
 @media only screen and (min-width: 60em) {
+
+body { 
+	width: 96%;
+	margin-right: 3%;
+	}
 
 .intro-wrap {
 	bottom: 2rem;
