@@ -205,7 +205,7 @@ a:hover {
 .buttontext {
 	color: white;
 	width: 80%;
-	margin: auto;
+	margin-right: 10%;
 	position: relative;
 }
 
