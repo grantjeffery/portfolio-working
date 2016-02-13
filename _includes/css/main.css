@@ -150,7 +150,6 @@ ul {
     bottom: 20px;
     background-color: white;
     border: 0;
-    outline: 2px solid black;
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
@@ -173,7 +172,6 @@ ul {
 	
 .btn:hover {
 	opacity: 1;
-	border: 3px solid rgb(255,255,255);
 	}
 
 a:hover {
