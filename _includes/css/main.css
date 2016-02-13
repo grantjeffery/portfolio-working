@@ -176,9 +176,9 @@ ul {
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
-    left: 3%;
-    top: 0%;
-    right: 3%;
+    left: 6%;
+    top: 6%;
+    right: 6%;
     bottom: 6%;
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
