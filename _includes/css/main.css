@@ -30,16 +30,15 @@ Colours
 
 .green {
 	background-color: green;
-
-}
+	}
 
 .blue {
 	background-color: blue;
-}
+	}
 
 .yellow {
 	background-color: yellow;
-}
+	}
 
 /***************************
 ****************************
@@ -177,6 +176,10 @@ ul {
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
+    left: 20px;
+    top: 20px;
+    right: 20px;
+    bottom: 20px;
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
