@@ -176,14 +176,10 @@ ul {
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
-    right:0;
-    left:0;
-    top:0;
-    bottom:0;
-    padding-top: 3%;
-    padding-left: 3%;
-    padding-right: 3%;
-    padding-bottom: 3%;
+    padding-top: 4%;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 4%;
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
