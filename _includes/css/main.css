@@ -28,7 +28,7 @@ body {
 	width: 100%;
 	}
 .tilt {
-	background-color: #2b1d5b;
+	background-color: #2b5cb9;
 }
 
 .maze {
@@ -40,7 +40,7 @@ body {
 	}
 
 .canoe {
-	background-color: #405ea6;
+	background-color: #d82a28;
 	}
 
 .omnom {
@@ -210,7 +210,7 @@ ul {
 }
 	
 .btn:hover {
-	opacity: 0;
+	opacity: 1;
 	}
 
 a:hover {
