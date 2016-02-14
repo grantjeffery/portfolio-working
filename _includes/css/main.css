@@ -24,7 +24,7 @@ Colours
 ****************************
 ***************************/
 
-.main { 
+body { 
 	width: 100%;
 	}
 .tilt {
@@ -432,7 +432,7 @@ the 404 page
 
 @media only screen and (min-width: 60em) {
 
-.main { 
+body { 
 	width: 94%;
 	margin-left: 3%;
 	}
@@ -492,7 +492,7 @@ the 404 page
 	}
 	
 
-.main { 
+body { 
 	width: 80%;
 	margin-left: 10%;
 	}
