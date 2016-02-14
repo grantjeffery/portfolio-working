@@ -477,6 +477,15 @@ body {
 	bottom: 4rem;
 	}
 	
+	.main {
+		width: 80%
+		;
+	}
+
+	.btn {
+		margin: 8%;
+	}
+
 }
 
 @media only screen and (min-width: 90em) {
