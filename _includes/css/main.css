@@ -24,6 +24,11 @@ Colours
 ****************************
 ***************************/
 
+body { 
+	width: 100%;
+	}
+
+
 .red {
 	background-color: red;
 	}
@@ -477,14 +482,12 @@ body {
 	bottom: 4rem;
 	}
 	
-	.body {
-		width: 40%;
-		;
+
+body { 
+	width: 80%;
+	margin-left: 10%;
 	}
 
-	.btn {
-		margin: 8%;
-	}
 
 }
 
