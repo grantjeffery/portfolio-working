@@ -27,21 +27,23 @@ Colours
 body { 
 	width: 100%;
 	}
+.tilt {
+	background-color: #2b1d5b;
+}
 
-
-.red {
+.maze {
 	background-color: #2b1d5b;
 	}
 
-.green {
-	background-color: green;
+.nasa {
+	background-color: #455faa;
 	}
 
-.blue {
+.canoe {
 	background-color: #405ea6;
 	}
 
-.yellow {
+.omnom {
 	background-color: #fd98b6;
 	}
 
@@ -208,7 +210,7 @@ ul {
 }
 	
 .btn:hover {
-	opacity: 1;
+	opacity: 0;
 	}
 
 a:hover {
