@@ -204,6 +204,7 @@ ul {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+    transition: opacity 0.5s ease;
 }
 	
 .btn:hover {
