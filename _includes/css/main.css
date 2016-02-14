@@ -36,7 +36,7 @@ body {
 	}
 
 .nasa {
-	background-color: #455faa;
+	background-color: #5f2b99;
 	}
 
 .canoe {
@@ -46,6 +46,10 @@ body {
 .omnom {
 	background-color: #fd98b6;
 	}
+
+.volcano{
+	background-color:;
+}
 
 /***************************
 ****************************
@@ -143,14 +147,6 @@ ul {
 .viewbox {
 	position: relative;
 	}
-
-.item {
-	padding: 0;
-}
-
-.itemgrid {
-	padding: 0;
-}
 
 .viewreel {
 	font-family:'Catamaran', Arial, Helvetica, sans-serif;
