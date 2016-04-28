@@ -117,6 +117,11 @@ h2 {
 	color: rgb(62,58,87);
 	font-weight:400;
 	}
+
+h2.mainpage {
+	color: rgb(250,250,250);
+	font-weight:400;
+	}
 	
 h3 {
 	color: rgb(62,58,87);
@@ -277,7 +282,7 @@ a.sm {
 	}
 
 .sm:hover { 
-	background-color: FFBB0B;
+	background-color: rgb(255,187,11);
 	}
 	
 
@@ -294,7 +299,7 @@ the social media section
 	}
 	
 .mail { 
-	color: rgb(234,103,72);
+	color: ;
 	}
 
 .mail:link { 
@@ -308,7 +313,7 @@ the social media section
 	
 	
 .mail:hover {
-	text-decoration:underline;
+	background-color: rgb(255,187,11);
 	}
 
 
@@ -426,11 +431,6 @@ the 404 page
 
 @media only screen and (min-width: 60em) {
 
-body { 
-	width: 94%;
-	margin-left: 3%;
-	}
-
 
 .btn {
 	margin: 5%;
@@ -482,12 +482,6 @@ body {
 
 	.intro-wrap {
 	bottom: 4rem;
-	}
-	
-
-body { 
-	width: 80%;
-	margin-left: 10%;
 	}
 
 
