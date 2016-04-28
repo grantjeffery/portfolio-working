@@ -333,17 +333,11 @@ the social media section
 	text-align: left;
 	}
 	
-.mail { 
-	color: ;
-	}
 
-.mail:link { 
+.mail { 
 	
 	margin-bottom: 2em;
-	color: rgb(234,103,72);
-	display:block;
 	text-align: center;
-	text-decoration:none;
 	}
 	
 	
@@ -498,11 +492,9 @@ the 404 page
 	margin:auto;
 	}
 
-.mail:link { 
+.mail { 
 		margin-bottom: 2em;
-		color: rgb(234,103,72);
-		display:block;
-		text-align: left;
+		margin: auto;
 		text-decoration:none;
 		}
 
