@@ -89,7 +89,6 @@ a {
 
 
 h1 {
-	color: rgb(236,101,86);
 	margin-bottom: auto;
 	}
 
@@ -272,7 +271,7 @@ h1:hover {
 
 .specs {
 	margin: inherit;
-	color:rgb(238,126,109);
+	background-color:rgb(255,187,11);
 	}
 	
 .thanks {
