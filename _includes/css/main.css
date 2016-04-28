@@ -470,6 +470,10 @@ the 404 page
 		text-decoration:none;
 		}
 
+	a.sm {
+    padding-right: 30%;
+}
+
 @media only screen and (min-width: 70em) {
 
 	.intro-wrap {
@@ -491,6 +495,11 @@ the 404 page
 
 	.intro-wrap {
 	bottom: 6rem;
+	}
+
+	.body {
+		width: 90%;
+		margin-left: 5%;
 	}
 	
 }
