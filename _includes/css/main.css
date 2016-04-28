@@ -494,6 +494,7 @@ the 404 page
 
 .mail { 
 	text-align: left;
+	padding-bottom: inherit;
 		}
 
 	a.sm {
