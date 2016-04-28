@@ -121,13 +121,6 @@ h2 {
 h3 {
 	color: rgb(62,58,87);
 	}
-
-.grant {
-	}
-
-.grant:hover {
-
-}
 	
 
 .navicon {
@@ -277,9 +270,14 @@ a:hover {
 	text-align:center;
 	}
 	
+
+a.sm {
+    border-top-style: solid;
+    border-top-width: thick;
+	}
+
 .sm:hover { 
-	padding-bottom: .3em;
-	border-bottom: thin solid;
+	background-color: FFBB0B;
 	}
 	
 
