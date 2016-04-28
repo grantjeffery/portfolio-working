@@ -508,7 +508,7 @@ the 404 page
 	bottom: 3rem;
 	}
 
-	.body {
+	body {
 		width: 90%;
 		margin-left: 5%;
 	}
@@ -522,7 +522,7 @@ the 404 page
 	bottom: 4rem;
 	}
 
-	.body {
+	body {
 		width: 80%;
 		margin-left: 10%;
 	}
