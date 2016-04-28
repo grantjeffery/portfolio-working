@@ -219,9 +219,10 @@ a:hover {
 	text-decoration: none;
 	}
 
-.home:hover {
+h1:hover {
 	color:rgb(255,187,11);
 }
+
 .buttontext {
 	color: white;
 	width: 80%;
