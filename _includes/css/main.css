@@ -96,7 +96,6 @@ h1 {
 .iconcolor {
 	font-size: 1.2em;
 	display: inline-block;
-	font-family: 'Catamaran', Arial, Helvetica, sans-serif;
 	font-weight: 400;
 	color: rgb(62,58,87);
 	}
@@ -160,7 +159,6 @@ ul {
 	}
 
 .viewreel {
-	font-family:'Catamaran', Arial, Helvetica, sans-serif;
 	text-decoration:none;
 	color: rgb(240,125,90);
 	padding: 2% 4% 2% 4%;
@@ -174,7 +172,6 @@ ul {
 	}
 
 .view {
-	font-family: 'Catamaran', Arial, Helvetica, sans-serif;
  	position: absolute;
 	 bottom: 6rem;
 	 text-decoration:none;
@@ -305,7 +302,6 @@ the social media section
 .mail:link { 
 	
 	margin-bottom: 2em;
-	font-family:'Vollkorn', sans-serif;
 	color: rgb(234,103,72);
 	display:block;
 	text-align: center;
@@ -470,7 +466,6 @@ body {
 
 .mail:link { 
 		margin-bottom: 2em;
-		font-family:'Catamaran', sans-serif;
 		color: rgb(234,103,72);
 		display:block;
 		text-align: left;
