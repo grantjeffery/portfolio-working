@@ -336,7 +336,6 @@ the social media section
 
 .mail { 
 	
-	margin-bottom: 2em;
 	text-align: center;
 	}
 	
@@ -493,9 +492,7 @@ the 404 page
 	}
 
 .mail { 
-		margin-bottom: 2em;
 		margin: auto;
-		text-decoration:none;
 		}
 
 	a.sm {
